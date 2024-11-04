@@ -1,5 +1,5 @@
 ---
-title: Peraturan Rumah untuk Tamu Menginap
+title: Peraturan Rumah Tamu Menginap
 description: Peraturan yang berlaku di rumah kolektif Lifepatch bagi tamu yang menginap.
 publicationDate: 2024-08-03
 image: ./2018-02-11.jpg
