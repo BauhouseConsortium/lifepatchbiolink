@@ -41,3 +41,8 @@ Selamat datang di rumah kolektif Lifepatch, Sebelum Anda dapat check-in, mohon u
 10. **Konsekuensi Pelanggaran**
     - Saya memahami bahwa pelanggaran terhadap house rule agreement ini dapat mengakibatkan konsekuensi serius, termasuk kemungkinan dikeluarkan dari rumah kolektif Lifepatch dan dimasukkan dalam daftar tamu yang tidak diizinkan untuk berkunjung kembali di masa mendatang.
     - Saya menyadari bahwa konsekuensi ini diterapkan untuk menjaga keamanan, kenyamanan, dan keharmonisan bagi semua penghuni rumah kolektif Lifepatch.
+
+
+**Lampiran:**
+
+- [Mekanisme Respons Krisis Pelecehan Kekerasan Seksual](https://silly-banana-1ef.notion.site/Mekanisme-Respons-Krisis-Pelecehan-Kekerasan-Seksual-b0b523f855e344228ba8abab2abc5dc2)

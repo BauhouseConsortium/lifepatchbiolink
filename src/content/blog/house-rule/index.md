@@ -42,3 +42,7 @@ Selamat datang di rumah kolektif Lifepatch. Sebagai pengunjung, kami mohon Anda 
     - Konsekuensi ini diterapkan untuk menjaga keamanan, kenyamanan, dan keharmonisan bagi semua penghuni dan pengunjung rumah kolektif Lifepatch.
 
 Dengan memasuki rumah kolektif Lifepatch, Anda menyatakan bahwa Anda telah membaca, memahami, dan setuju untuk mematuhi house rule yang berlaku selama Anda berkunjung. Anda juga memahami dan menerima konsekuensi yang mungkin timbul jika Anda melanggar aturan-aturan tersebut.
+
+**Lampiran:**
+
+- [Mekanisme Respons Krisis Pelecehan Kekerasan Seksual](https://silly-banana-1ef.notion.site/Mekanisme-Respons-Krisis-Pelecehan-Kekerasan-Seksual-b0b523f855e344228ba8abab2abc5dc2)
