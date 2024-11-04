@@ -1,7 +1,7 @@
 ---
 title: Peraturan Rumah Kolektif Lifepatch
 description: Aturan-aturan yang berlaku di rumah kolektif Lifepatch.
-publicationDate: 2024-08-03
+publicationDate: 2024-08-04
 image: ./2018-02-11.jpg
 ---
 
