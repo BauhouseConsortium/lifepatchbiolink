@@ -4,20 +4,28 @@ import { SITE } from "@/siteConfig";
 import Introduction from "@/components/Introduction.astro";
 import IconLink from "@/components/IconLink.astro";
 import CustomLink from "@/components/CustomLink.astro";
+const { post } = Astro.props;
+
 ---
 
+
+
 <Introduction />
-<ul class="flex justify-center gap-4 py-12">
-  {
-    SITE.iconLinks.map((link) => {
-      return <IconLink url={link.url} icon={link.icon} />;
-    })
-  }
-</ul>
-<ul class="grid gap-y-6 pb-12 pt-4">
-  {
-    SITE.customLinks.map((link) => {
-      return <CustomLink url={link.url}>{link.title}</CustomLink>;
-    })
-  }
-</ul>
+{SITE.iconLinks.length > 0 && (
+  <ul class="flex justify-center gap-4 py-12">
+    {
+      SITE.iconLinks.map((link) => {
+        return <IconLink url={link.url} icon={link.icon} />;
+      })
+    }
+  </ul>
+)}
+{SITE.customLinks.length > 0 && (
+  <ul class="grid gap-y-6 pb-12 pt-4">
+    {
+      SITE.customLinks.map((link) => {
+        return <CustomLink url={link.url}>{link.title}</CustomLink>;
+      })
+    }
+  </ul>
+)}

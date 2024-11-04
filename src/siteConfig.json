@@ -24,13 +24,12 @@
       "id": "1728534577188",
       "icon": "instagram",
       "url": "https://instagram.com/lfptch"
+    },
+    {
+      "id": "1728534577189",
+      "icon": "google-maps",
+      "url": "https://maps.app.goo.gl/NUsR5JWaFvjWtvvt6"
     }
   ],
-  "customLinks": [
-    {
-      "id": "1728534585738",
-      "title": "🍌 donkey kong country on the snes",
-      "url": "https://youtu.be/7hgr-ZuzXng?si=v3dr9mu2cBL_D4ED"
-    }
-  ]
+  "customLinks": []
 }

@@ -8,6 +8,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import Content from "@/components/Content.astro";
 import Post from "@/components/Post.astro";
 import SeoPage from "@/components/SeoPage.astro";
+import CustomLink from "@/components/CustomLink.astro";
 
 const posts = (await getCollection("blog")).sort(
   (a: CollectionEntry<"blog">, b: CollectionEntry<"blog">) =>
@@ -21,7 +22,7 @@ const posts = (await getCollection("blog")).sort(
     <Content />
     {
       SITE.blog ? (
-        <ul class="grid list-none gap-y-8 px-0 py-12">
+        <ul class="grid list-none gap-y-2 px-0 ">
           {posts.map((post: CollectionEntry<"blog">) => (
             <Post post={post} />
           ))}
