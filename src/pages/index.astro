@@ -23,8 +23,12 @@ const posts = (await getCollection("blog")).sort(
     {
       SITE.blog ? (
         <ul class="grid list-none gap-y-2 px-0 ">
-          <CustomLink url={`https://adorable--marshmallow--be88d6-netlify-app.translate.goog/?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp`}>English Version 🔗</CustomLink>
-          <CustomLink url={`https://lifepatch.id`}>Lifepatch Wiki</CustomLink>
+          <li class="flex flex-col text-center no-underline">
+            <CustomLink url={`https://adorable--marshmallow--be88d6-netlify-app.translate.goog/?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp`}>English Version 🔗</CustomLink>
+          </li>
+          <li class="flex flex-col text-center no-underline">
+            <CustomLink url={`https://lifepatch.id`}>Lifepatch Wiki</CustomLink>
+          </li>
           {posts.map((post: CollectionEntry<"blog">) => (
             <Post post={post} />
           ))}
