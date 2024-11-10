@@ -12,7 +12,7 @@ const { post } = Astro.props;
 
 <Introduction />
 {SITE.iconLinks.length > 0 && (
-  <ul class="flex justify-center gap-4 py-12">
+  <ul class="flex justify-center gap-4 py-8">
     {
       SITE.iconLinks.map((link) => {
         return <IconLink url={link.url} icon={link.icon} />;
